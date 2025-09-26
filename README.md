@@ -1,1 +1,1 @@
-# Data-Analytics-Projects-Netflix-Data-analysis-Covid-19-Data-
+# Exploratory-Data-Analytics-Projects
